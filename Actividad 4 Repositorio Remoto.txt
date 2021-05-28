@@ -1,0 +1,16 @@
+  228  mkdir basic_repo
+  229  cd basic_repo
+  230  git init
+  231  git status
+  232  git add .
+  233  git status
+  234  git commit -m "ejercicios track 1"
+  235  git status
+  236  git remote add origin https://github.com/CrisCuevas84/basic_repo.git
+  237  git push origin master
+  238  git status
+  239  git add .
+  240  git commit -m "más ejercicios track 1"
+  241  git log
+  242  git remote add origin https://github.com/CrisCuevas84/basic_repo.git
+  243  git push origin master
